@@ -5,6 +5,3 @@ scikit-learn
 matplotlib
 seaborn
 
-
-✅ Install karne ke liye:
-pip install -r requirements.txt
